@@ -8,3 +8,6 @@
 /StringCalculator/StringCalculator.Test/obj
 /StringCalculator/StringCalculator.Core/obj
 /StringCalculator/StringCalculator.Console/obj
+/StringCalculator/.vs/StringCalculator/v15
+/StringCalculator/StringCalculator.Console/bin/Debug
+/StringCalculator/StringCalculator.Core/bin/Debug
